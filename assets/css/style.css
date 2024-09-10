@@ -4,7 +4,7 @@ nav {
     justify-content: space-around;
     height: 71px;
     align-items: center;
-    background-color: #0779E4;
+    background-color: #0779e4a1;
 }
 
 .nav-items {
@@ -29,7 +29,8 @@ nav {
     font-size: 60px;
 }
 
-.hero-info {
+/* .hero-info {
     width: 50%;
     padding-top: 48px;
-}
+} */
+
